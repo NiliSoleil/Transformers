@@ -41,7 +41,7 @@ The project was completed in the following stages:
 
   **Prerequisites:** 🛠️ Make sure you have the necessary libraries, such as PyTorch, installed.
   
-  **Run the Notebook:** 🖥️ The code is available here: 
+  **Run the Notebook:** 🖥️ The code is available here: https://github.com/NiliSoleil/Transformers/blob/main/Transformer_ECG.ipynb
   
   You can run it in Google Colab or any Jupyter environment.
 
